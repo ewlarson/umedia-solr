@@ -1,3 +1,3 @@
-# Docker Images for GeoBlacklight
+# Docker Images for UMedia
 
 - Solr
